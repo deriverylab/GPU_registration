@@ -1,5 +1,5 @@
 # GPU_registration
-this function perform drift correction of hyperstacks
+ this function perform drift correction of hyperstacks
  Description:this function perform drift correction of hyperstacks
  Parameters:
  source   path of the directory containing all the stacks you want to process (will all be processed in batch)
